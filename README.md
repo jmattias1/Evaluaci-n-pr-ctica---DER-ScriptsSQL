@@ -1,3 +1,4 @@
 Evaluación práctica - DER&ScriptsSQL
 Matias Risso
-![tp_3](https://user-images.githubusercontent.com/106113013/189449471-d6b4eb96-0594-4c10-91ba-27ccbdcaabf1.png)
+
+[TP_16.pdf](https://github.com/jmattias1/Evaluaci-n-pr-ctica---DER-ScriptsSQL/files/9538912/TP_16.pdf)
